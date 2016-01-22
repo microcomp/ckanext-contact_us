@@ -1,0 +1,144 @@
+# Slovak translations for ckanext-responsive_design.
+# Copyright (C) 2015 ORGANIZATION
+# This file is distributed under the same license as the
+# ckanext-responsive_design project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ckanext-responsive_design 0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2015-09-08 13:21+0200\n"
+"PO-Revision-Date: 2015-05-14 12:46+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: sk <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2 \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 0.9.6\n"
+
+#: ckanext/contact_us/controller.py:25
+msgid "The value was edited"
+msgstr ""
+
+#: ckanext/contact_us/controller.py:27 ckanext/contact_us/controller.py:29
+#: ckanext/contact_us/controller.py:33
+msgid "Missing value"
+msgstr ""
+
+#: ckanext/contact_us/controller.py:31
+msgid "Invalid email"
+msgstr ""
+
+#: ckanext/contact_us/controller.py:39
+msgid "Email sent"
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:2
+msgid "Contact us"
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:4
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:25
+msgid "Contact Us"
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:13
+msgid ""
+"Use this form to obtain information and send us your comments about the open "
+"data portal. We will redirect your message to the appropriate resources. All "
+"fields are required."
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:16
+msgid "We will answer your email within 48 business hours."
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:26
+msgid "All fields are required"
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:28
+msgid "Your name"
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:28
+msgid "eg. Joe Bloggs"
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:29
+msgid "Your email"
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:29
+msgid "eg. joe@example.com"
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:30
+msgid "Your Message"
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:30
+msgid "Hi, My message is ..."
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:44
+msgid "Submit"
+msgstr ""
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:25
+msgid ""
+"In case you need help concerning the use of the portal or if you are willing "
+"to share your ideas/opinion on how to improve the functionality and "
+"information content of Central Government Portal, feel free to contact our "
+"Central Customer Service. Our professionally trained operators will gladly "
+"serve your needs."
+msgstr "Ak máte problém s používaním portálu alebo nové námety na zlepšenie funkcionality a informačného obsahu Ústredného portálu verejnej správy, využite služby Ústredného kontaktného centra. Odborne vyškolení operátori vám radi poradia a pomôžu."
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:26
+msgid "Central customer service"
+msgstr "Ústredné kontaktné centrum"
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:26
+msgid ""
+"You can reach us by phone at the phone number +421 2 35 803 083 from Monday "
+"to Friday, from 08:00 a.m. to 06:00 p.m."
+msgstr "Kontaktovať nás môžete na telefónnom čísle: +421 2 35 803 083 v pracovných dňoch, pondelok až piatok, od 8.00 do 18.00 h."
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:27
+msgid ""
+"Phone calls made to Central customer service are subject to the charges of "
+"telecommunication operators providing landline service. Calling to Central "
+"customer service is not a subject to special charges."
+msgstr "Hovory na Ústredné kontaktné centrum sa spoplatňujú podľa cenníkov služieb operátorov poskytujúcich telekomunikačné služby ako hovory na bežnú pevnú linku. Volanie na Ústredné kontaktné centrum nie je službou s osobitnou tarifikáciou."
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:28
+msgid "Contact us by Contact Form"
+msgstr "Napíšte nám"
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:28
+msgid ""
+"You can reach us about your problems, concerns, and suggestions by filling in"
+" our"
+msgstr "Vaše problémy, pripomienky a námety nám môžete zasielať prostredníctvom"
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:28
+msgid "Contact Form"
+msgstr "kontaktného formulára"
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:28
+msgid ""
+"Please make sure that your contact data is correct before you send your "
+"message."
+msgstr "Pred odoslaním formulára si, prosím, skontrolujte správnosť vyplnených kontaktných údajov. "
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:29
+msgid "Provider and webmaster of www.slovensko.sk is"
+msgstr "Prevádzku stránky www.slovensko.sk a správu jej obsahu zabezpečuje"
+
+
+
+#: ckanext/contact_us/templates/ckanext/contact_us/index.html:16
+msgid "Field office"
+msgstr "Detašované pracovisko"
