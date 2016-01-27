@@ -5,14 +5,14 @@ import ckan.plugins.toolkit as tk
 from ckan.lib.base import BaseController, config
 import jinja2
 from ckan.common import _, c, g, request
-from validate_email import validate_email
+#from validate_email import validate_email
 
 abort = base.abort
 render = base.render
 
 class ContactUsController(BaseController):
     def index(self, context=None):
-        c = p.toolkit.c
+        '''c = p.toolkit.c
         data = request.params or {}
         errors = {}
         error_summary = {}
@@ -42,5 +42,7 @@ class ContactUsController(BaseController):
                     raise
         #error_summary = errors
         vars = {'data': data, 'errors': errors, 'error_summary': error_summary}
-        return render('ckanext/contact_us/index.html', extra_vars=vars)
+            +, extra_vars=vars
+        '''
+        return render('ckanext/contact_us/index.html')
     
